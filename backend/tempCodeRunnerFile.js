@@ -1,0 +1,1 @@
+const fetchdata= mongoose.connection.db.collection
